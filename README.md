@@ -19,8 +19,6 @@ To search for XBOX ONE TITLES:
 
 ```js
 
-var xbox = require("xbox-node");
-
 xbox.searchOne("halo", function(response) {
 
   // do whatever you want with the response.
